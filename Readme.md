@@ -37,4 +37,4 @@
     - - ex : `localhost:3000/api/deviation?coin=bitcoin`
 
 ### Deployed API 
-- `https://crypto-fetch-app.onrender.com/api/healthcheck`
+- `https://cryptofetch-api.onrender.com/api/healthcheck`
